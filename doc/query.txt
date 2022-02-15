@@ -1,0 +1,345 @@
+1
+IT, Machine learning Excellent researchers from Korea and Europe are working together on research such as AI, robotics, autonomous driving, 3D/HD mapping, and AR. Our mission is to prepare for the future of Naver's platform, which will connect people, machines, space, and information anew through the most original and advanced technology.Platform Engineering] Develop MLOps tools, frameworks, and platforms for machine learning pipelines used in Machine Learning Ops Engineer Robotics/Autonomous Driving/Metabus.
+Development of Backend System, an integrated platform for machine learning.
+Close collaboration with learning/service ML engineers Experience in the industry for more than 3 years (academic or higher)
+Kubernetes-related experience Understanding CI/CD system construction capability containers
+Proficient in either Python/C++/shell/go/Java
+Kubeflow experience.
+Understanding Deep Learning frameworks (Tensorflow, Pytorch, TensorRT, etc.)
+Understanding Kubernetes or similar container orchestration tools in the process of commercialization
+Experience in using the framework: Pytorch/TensorRT/Docker/Kubernetes
+Experience dealing with large-capacity and unstructured multimedia data.
+   /
+2
+UI
+I work to implement a UI that considers usability based on a deep understanding of the service. We are carrying out new projects that take place throughout KakaoTalk and Kakao services, and are also conducting prior design to improve usability. It is not limited to specific services, but you can access various services as a whole, so you can carry out various tasks and increase your expertise and capabilities as a designer.
+
+UI implementation.
+Carrying out a new project.
+Improves usability.
+PreviousDesign
+UX
+Kakao service can be used more valuable, and we think about making it easier and more convenient for users to use the service and come up with practical design solutions. If necessary, you can conduct user research to listen to users' vivid stories, and if interaction is important, you can create your own. You can design a better user experience through various perspectives and methodologies, collaborate closely with planning/design/development parts, propose UX concepts, and implement services, not limited to any one field of work.
+
+Improvement of user experience.
+Searching for the user's seat.
+Prototype.
+Increases convenience.
+BX
+I design the overall experience of Kakao's various brands and create all tangible and intangible assets accordingly. Establish and design concepts and visual strategies, and research and derive various brand assets and applications to implement brand strategies.
+Brand experience design.
+Concept and visual strategy.
+Brand asset research.
+Illustration
+It is in charge of various creative tasks such as developing characters related to Kakao's IP, story planning, and emoticon production, such as Kakao Friends and Niniz. Not only is it a nationwide beloved character IP, but it is also a representative brand asset of a company that can be found in Kakao's various services, so if you are interested in content creation and branding, you can grow rapidly through the job.
+
+Character development.
+Story planning.
+Emoticons.
+Creative radish.
+Marketing
+Based on Kakao's high understanding of technology and business, we are thinking about the mid- to long-term direction of corporate brands to reach a good brand for users. In addition, Kakao's various service brands are aligned, defined, and positioned in Kakao's beauty, and contributes to overall service growth and branding through user-oriented brand communication/marketing planning and execution. Unlike consumer goods, Kakao and service products are constantly evolving like organisms, and communication is also digitally centered, allowing users to communicate immediately, allowing them to have more dynamic and diverse experiences.
+
+Corporate branding.
+Service branding.
+Brand communication.
+Marketing planning.
+   /
+3
+Establishing mid to long-term marketing plans and strategies.
+Market Trends Analysis and Industry Research
+Establish sales promotion activities to create markets and increase sales, and plan events/budget management (promotion, campaign)
+Collecting and managing customer and customer information.
+Digital media and marketing asset management
+Confirmation and consultation of Microsoft marketing strategies
+Other marketing activities related to customer and customer service.
+Business English speaker.
+Higher than or equal to Excel and Powerpoint utilization capabilities
+   /
+4
+-Serving as the primary contact for the implementation of the EHS programs for specific Microsoft Datacenters.
+-Being accountable for EHS performance metrics and implementation of annual improvement plans.
+-Periodically inspecting, auditing and reviewing safe work practices to ensure compliance with regulations and company policies.
+-Conduct workplace risk/exposure assessments for various classes of hazards.
+-Supporting incident investigations and root cause analysis, so that corrective and preventive actions can be identified, communicated globally and implemented.
+-Conducting/delivering regulatory training programs to meet EHS requirements.
+   /
+5
+Architect and program efficient and scalable webapps that help bring the latest research to production. Bachelor’s in computer science or Software Engineering. 
+Bachelors or Masters in Computer Science, Mathematics, or related field. 
+4years of experience coding in Python, JavaScript or Typescript   
+ 3years of industry experience coding in HTML/CSS, JavaScript or Typescript   
+Hands on experience with React Experience or interest in natural language understanding/generation. 
+Experience with bot development 
+Industry experience with React strongly preffered 
+Work closely with applied scientists and engineers to execute ambitious projects.
+Work on a variety of projects from to visualizations, data analysis tools, to customer facing webapps.
+Ability to run with a project end to end with minimal supervision.
+   /
+6
+Creates and drives plans for research studies and/or programs for a product, product line, or services. Defines and scopes problems for an end-to-end research plan with clear success criteria relevant for business needs for a product, product line, or service. Leverages experimental design and its applications (e.g., within and between repeated measures design). Proactively identifies research needs and potential problem areas that need to be researched.
+Plans research to include Diversity and Inclusion and accessibility principles.
+Applies research methods for effective execution for a product, product line, or service. Guides multi-person research efforts resulting in strong product outcomes for a product, product line, or service.
+Uses sense-making/analysis to synthesize and distill data for a product, product line, or service. Reviews and analyzes data to draw conclusions for a product, product line, or service. Applies statistical analyses to strengthen hypotheses to make business decisions for a product, product line, or service. Enables problem identification and reduces data to form aggregate insights for a product, product line, or service.
+Shares insights in a way that is easy to understand in order to activate design and engineering processes from insights for a product, product line, or service. Creates and leverages communication methods that promote an emotional connection to a customer and conveys real user stories that reveal customer insights.
+Manifests insights into product truth, impact, and decisions for Group Product Managers and General Managers. 4+ years User Experience Research experience AND Bachelor's Degree in Human-Computer Interaction, Human Factors Engineering, Computer Science, Technical Communications, Information Science, Information Architecture, User Experience Design, Behavioral Science, Social Sciences, or related field
+OR 3+ years User Experience Research experience AND Master's Degree in Human-Computer Interaction, Human Factors Engineering, Computer Science, Technical Communications, Information Science, Information Architecture, User Experience Design, Behavioral Science, Social Sciences, or related field
+OR 3+ year(s) User Experience Research experience AND Doctorate in Human-Computer Interaction, Human Factors Engineering, Computer Science, Technical Communications, Information Science, Information Architecture, User Experience Design, Behavioral Science, Social Sciences, or related field 
+   /
+7
+Manage Quality Assurance in transactions Bachelor's Degree in related field AND 4+ years experience in project management
+OR Master's Degree in related field AND 3 years experience in project management
+OR Doctorate Degree in related field AND 3 years experience in project management
+OR equivalent experience.
+
+Provide guidance to and directly participate in reviewing Enterprise Consulting and Support Services deals and projects. 
+Provide quality management support for complex projects (type 1 and 2) and other critical transactions (to be defined by local management) during sales stages by reviewing Statement of Work, technical solutions and providing QA related recommendations. 
+Manage and monitor quality during delivery in close cooperation with the delivery team, captures and provides feedback for best practices.
+Collaborate closely with Local and Global Domains, for specific solutions. Consult and involve necessary SMEs during sales and delivery phase for identification of good practices, project health tracking
+Identify and capture good practices and make those available as business insights within the quality community and local/area management.
+Communicate with and support SQA Directors, Services Sellers, Delivery Managers and Project Managers.
+Identify quality issues and root causes, identify corrective actions, discover Early Warnings and drive to resolution in close coordination with the SQA Directors.
+Develop and maintain quality reports and provide on a regular basis through sales/delivery rhythm of the business (ROB).
+Drive consistency, adoption and integration of quality standards within Microsoft’s processes, policies and systems, as well as support their creation.  Develop continuous improvement insights with high impact across our QA teams and into the Field.
+   /
+8
+A job of designing a circuit for developing DRAM, Flash, and Solution.
+Digital/Analog circuit design
+Digital/Analog circuit design that meets the product's requirements.
+Logic Gate circuit and data path design for algorithm implementation
+Circuit design for generating various DC voltages and circuit design for mixed signal processing.
+Development of solution products.
+Function verification, process development, mass production verification for DRAM Module product development.
+Controller SoC design and verification for SSD/eMMC/UFS product optimization
+Interface design for organic connection and high speed operation of key elements in SSD.
+Design circuit verification (Simulation, Logic)
+Use the Simulation Tool to build a verification environment and verify designed circuits.
+Maximize verification completeness of product behavior based on SPEC and actual usage environment.
+Layout design.
+Pattern design for implementing a circuit that has been designed/verified as a chip.
+Design Rule-based Physical Layout Design to ensure circuit characteristics
+Evaluation and optimization of design products
+Defect analysis using Wafer/Package evaluation equipped with a designed circuit.
+Analysis and optimization of product integration characteristics (reliability, performance, quality, etc.)
+Process and improvement of SW and HW defect analysis occurring in the product.
+Development of design/verification methodology.
+Development and support of In-House SW and Tools for product design.
+Development of a design automation (circuit design/verification/layout, etc.) methodology (SW, system)
+Developing new design and verification techniques for next-generation product design.
+Reinforcement of Check & Balance through defect case analysis and coverage implementation.
+Electrical and electronic: Basic electronic circuit, electromagnetism, VLSI circuit design (including SoC design), etc.
+Those who have the necessary capabilities to design semiconductor circuits such as basic semiconductor operating principles and electronic circuit theory.
+A person who has the ability to speak programming languages (C, C++, System C, Python, etc.).
+Job-related experience holders (projects, papers, patents, competitions)
+Capabilities in semiconductor development (SPICE Simulation, Schematic Editor, Layout Drawing, Trace32, Power Supply, Logic/Protocol Analyzer, etc.)
+Those who have competency in programming languages (C++, System Verilog, Python, VBA, etc.)
+   /
+9
+The job of creating management performance by establishing a marketing/sales strategy for each transaction based on an understanding of customers/market/products.
+Marketing
+Market Trend Analysis, Insight Discovery, and Strategy Establishment
+Establishing product prices and operational strategies by analyzing short-term/medium-long-term market demand and competitive environment.
+Establishing a product portfolio and managing a product life cycle.
+Establishing a roadmap for new product promotion, establishing a strategy for product differentiation, and supporting technology issues in trading lines.
+Event marketing, content marketing, digital platform strategy establishment, and product exhibition support.
+Marketing communication strategy, content/event/digital marketing
+sales
+Establishment and operation management of sales strategies by customer/region
+Demand/supply management through communication between trading lines and overseas subsidiaries.
+Product order activities, price and defect negotiations, mid- to long-term contract activities, and Product Mix strategy establishment.
+Establishment and operation of sales strategies for each online/offline channel for B2C/B2B customers.
+Price negotiations, product orders, mid- to long-term contract activities, etc. through communication between trading lines and overseas subsidiaries.
+Establishing a Product Mix strategy through supply/demand management.
+A person who has communication capabilities for smooth communication with business lines and related departments (including foreign language capabilities).
+A person who has the ability to analyze market conditions and trends based on various channels and data.
+Job-related experience holders (projects, papers, patents, competitions)
+A holder of basic knowledge related to marketing, management, and statistical knowledge.
+Business, economy, marketing management, microeconomy, macroeconomy
+   /
+10
+Production management Product production management that manages productivity through productivity planning, productivity management, and system-based SCM construction.
+Improving productivity through production plan establishment, material supply and demand management, and cost management.
+Production planning and progress management by product.
+Optimize production facilities by increasing efficiency of utilizing production infrastructure.
+Cost reduction through analysis of fluctuations in production facilities and Wafer Cost.
+Establishing a system-based production system.
+Improve productivity through production and stagnant scheduler management
+Establishment and improvement of SCM optimized for semiconductor production lines.
+Build and innovate Smart Factory
+Establishment of a fully automated production system and improvement of logistics operation methods.
+Improving inefficiency of manufacturing lines and establishing logic for optimizing infrastructure systems.
+Increase productivity by building infrastructure that combines Big Data / AI.
+Industrial engineering: production management, integrated computer production system, data management and analysis, industrial engineering statistics, etc.
+Competency holders necessary for production management tasks such as production management and logistics management.
+Job-related experience holders (projects, papers, patents, competitions)
+Statistics and numerical analysis Tool (Oracle, SQL, etc.) Competent Holder
+   /
+11
+The job of researching and developing solution products using semiconductors based on knowledge of S/W technology.
+Firmware, Middleware, System S/W, Application S/W development
+S/W development that meets the requirements of products (SSD, eStorage, DRAM Module, CPU, GPU, Multimedia, etc.)
+Firmware, S/W product application and evaluation, product performance optimization, Host System behavior research, and product compatibility verification.
+S/W Platform, Solution Product Test Platform Development
+S/W development that drives Storage Devices (SSD, Mobile Storage)
+Development of flash translation layer (FTL) and NAND flash management S/W.
+Development and verification of Host SW for Users (Samsung SSD Magic, etc.)
+Automotive, artificial intelligence, IoT, Cloud, and security S/W development.
+Development of BSP, Machine/Deep Learning, Voice/Natural Language Processing, Cloud Platform, etc.
+Encryption, embedded system security, communication/network security, security evaluation, etc.
+S/W Engineering
+Development methodology and process improvement, infrastructure/tool construction and automation, S/W analysis and quality management
+S/W Development Process Regulation Management and Testing Methodology Guide
+Simulator development and testing to improve Firmware quality.
+Development of automation method for product design/verification (CAE)
+Development of automation methods for design and verification of DRAM, Flash, PRAM single and solution products.
+Development of circuit optimization/product defect analysis algorithm using Machine/Deep Learning
+Next generation technology research.
+Research Storage Performance/Reliability Improvement Items and Development of Next Generation Storage Core Technologies
+Development of large memory solutions that combine DRAM and NAND Flash
+R&D for Host Software and Device Driver
+Development Infra research.
+Research and development of defense codes through machine learning.
+Development of modeling and simulation tools to optimize performance.
+Programming language (C/C++/C#/Python/Java, etc.) and algorithm problem solving competency holder.
+Embedded systems and ARM Architecture, operating system (Windows/Linux) capabilities
+A person who has the ability to understand requirements and design and implement software that meets them.
+Job-related experience holders (projects, papers, patents, competitions)
+A person who has experience in carrying out projects using software/hardware platforms.
+SW Testing Certificate holders such as CSTS and ISTQB.
+Experienced in front-end web programming.
+Understanding of Machine Learning and having experience in using it.
+Electrical and electronic: Embedded system, microprocessor application
+Computerized computer: Computer structure, programming language, computer programming
+Mathematics/statistics: Concept and application of probability, mathematical statistics, numerical analysis
+Electrical and electronic: Semiconductor Engineering, ARM Architecture
+Computerized computer: software engineering, algorithms, operating systems
+Mathematics/statistics: linear algebra, discrete data analysis, data science
+   /
+12
+Use Data Science Data Analysis Technology (Machine/Deep Learning) to perform structured and unstructured data analysis, derive Business Insight based on analysis results, and solve problems. Industrial Engineering, Statistics, Mathematics, Computer, Electronics, etc. Statistics/Quality Engineering: Data-based inference ability based on knowledge of mathematical statistics and classical statistics Machine learning: Design ability of learning and inference models Deep learning: Knowledge-holding big data analysis techniques such as model design/implementation/Deployment: Understanding of various analysis technologies Data Analytics, Deep Learning, AI Engineering Data Analytics Analysis of data to present/experiment/evaluation/implement problem-solving methods using problem definition, task discovery, data collection/processing, statistics/linear algebra/ML methodology. Deep Learning Perform tasks such as preprocessing of data, designing and implementing appropriate deep learning models, building systems for learning and reasoning, and performing the latest deep learning technology F/U. AI Engineering End to End Data Pipeline is designed and implemented until data is collected/utilized, and analysis services necessary for this are built using SW technology.
+   /
+13
+It performs tasks to design and commercialize memory semiconductor products that markets and customers need.
+Electronic, electrical, radio, semiconductor, information and communication, computer, physics.
+Skill holders such as noise component identification, design contract design, and circuit modeling.
+Analog design, digital design, layout design, verification
+Analog design.
+Perform tasks such as circuit design for signal processing and implementation of chip requirement functions.
+Digital design.
+Perform tasks such as digital IP development that conform to Chip Spec. and are optimized for Power/Performance/Area (PPA).
+Arrangement design.
+Arrangement of blocks and circuit arrangement and wiring for chip optimization.
+Verification
+In order to minimize trial and error in the process development and mass production stages, circuit verification and defect analysis work in the development design stage are performed.
+   /
+14
+Finance/accounting.
+It manages the company's overall accounting information and helps maximize the company's performance in the fields of funds, taxes, finance, and IR.
+Finance-related departments such as management, economy, accounting, and tax.
+Preferential treatment for accountants and tax accountants.
+Finance, IR, accounting, domestic/foreign tax support, etc.
+   /
+15
+Establish and operate the optimal IT environment from strategy establishment to project planning/management, and system development/operation for enterprise IT systems.
+Related majors such as computer, computer, industrial engineering, business information, electricity, electronics, semiconductor, etc.
+Software Design/Development Experience/Capability: Understanding Language and DBMS capabilities such as C/C++, C#, JAVA, SQL, React, StringBoot, Redis, Open Source Software, Understanding ALM Tool, IoT, Cloud, Big Data, Mobile, Server Virtualization/VDI, AR/VR/UIUX technology, etc.
+
+Software development/operation, Software Platform Engineering, Data Engineering, Master Data Governance, IT Infra deployment/planning, AMHS deployment/operation, IT planning
+
+Software development/operation
+Based on IT needs analysis in the field, Application/MSA is designed/developed/operated, and Application Engineering is performed by Architect and Development Management.
+
+Software Platform Engineering
+Business Biz. Strategy/development/cloud/IoT/data analysis platform implementation/planning, development, and operation tasks for creating service/development/data analysis platforms.
+
+Data Engineering
+By implementing database design/building and data pipelines (extraction/loading/processing), timely data supply and data quality, life cycle, and security management are performed.
+
+Master Data Governance
+It carries out planning tasks to strengthen governance and establish a future response environment through standard management of Master Data, data quality management, and future response environment.
+
+Building/Planning IT Infra
+It plays a role in IT Infra planning, Technical Architect (Server, Storage, Database, Network, Data Center), and Engineering to deliver reliable IT services.
+
+Establishment/operation of AMHS.
+It provides an AMHS environment, is in charge of planning/designing/building new FAB for automatic transport systems, and promotes stable operation and optimization of FAB.
+
+IT planning.
+Establish enterprise IT innovation strategies based on IT Governance, plan and implement innovation and Big Wave challenges
+   /
+16
+We are recruiting Android developers to create Kakao Story.
+It develops SNS services used by millions of users every day.
+For those who continue to work hard to develop high-quality software.
+Someone who can clearly understand their work and take responsibility for their actions.
+A person who is curious about new technologies and actively shares them with team members.
+Someone who thinks about the nature of the problem and constantly tries to find a fundamental solution.
+We're working like this.
+We are considering continuous improvement while conducting code improvement and code review as essential.
+We are growing together by conducting technical seminars once a week.
+We are researching and applying new technologies.
+Develop Android applications.
+Those who have more than 3 years of experience in developing Android applications.
+Who can develop applications using Java and Kotlin?
+Experience of using RxJava.
+Experience of using coroutine.
+Experience of using Jetpack Compose.
+The position is subject to a "completely selective working system" in which you flexibly set working hours on your own within the total working hours set on a monthly basis.
+In this case, you can register and share the start and end time of your work on a daily basis, and fill the prescribed working hours per month.
+   /
+17
+In the platform branding team, brand experts from various jobs, including brand planning, strategy, marketing, and design of the Kakao Talk platform, gather to create a consistent brand of Kakao.
+-Create tangible and intangible brand assets necessary for Kakao's future growth.
+-We think, plan, develop, and develop Kakao's various brands to improve their competitiveness.
+-Building new brand assets such as Kakao brand/service identity and reorganizing the system.
+- Brand concept, story, user experience, communication strategy, and design development.
+-Creative planning and design of major brands/services in Kakao.
+- Preparation and management of the Kakao community (affiliate) corporate brand.
+A designer who enjoys dealing with brands
+A person who is interested in strategic thinking, concepts, ideas, planning, and implementation.
+HJ: Someone who can make the concept concrete and visualize it.
+A person who enjoys taking the initiative in carrying out projects.
+Based on his rich experience, he has a lot of jobs and collaborations.
+- Someone who has various design research skills at home and abroad
+- Anyone who has experienced UX/UI or offline branding projects?
+   /
+18
+Consolidated finance.
+The Future Initiative Center is an organization responsible for Kakao and all its affiliates entering the global market and discovering future food.
+Preparation of consolidated financial statements for affiliates.
+Review related accounting/tax issues
+Anyone who has more than 5 years of experience in charge of consolidated accounting?
+Anyone who has experience in accounting/taxing?
+Preferential treatment for those who have experience in the FTC disclosure.
+A person who has a positive and active mind and smooth communication skills with internal/external members of the organization.
+Anyone who is fluent in utilizing MS office Excel and PowerPoint (excellent in formula, macro, presentation design)
+   /
+19
+Data analyst.
+It is a team that creates a future where data works.
+The fact that data works means that all tasks are automatically performed and continuously improved by real-time data and intelligent systems that utilize it, at least through human intervention.
+Currently, systems such as digital advertising and customized recommendations are already working this way, and in the future, data will be centered in all industries and in all businesses of the company.
+To lead this change, our team is specifically carrying out the following tasks.
+Constantly exploring ideas that will create new business value from Kakao and community data assets.
+Beyond simple data analysis for reporting, we create data products where data is the center of problem solving.
+Based on experiments, it innovates the way data products are distributed and utilized inside and outside Kakao.
+Create a data sharing and utilization policy that can fully utilize data while protecting user rights and interests.
+We look forward to your support to create a future where data works together.
+Depending on the team's demand and personal capabilities, one or several of the tasks below will be performed.
+Identifying data characteristics.
+Macro/microscopically grasp the characteristics of data generated through services operated by Kakao.
+Exploring and analyzing the utilization plan.
+Derive data utilization plans in the form of tasks and perform analysis.
+User-based analysis / Object-based analysis / Network analysis / Statistical analysis
+Base research on helping interpretation such as anomaly detection, time series analysis, and mathematical modeling.
+#3. Data production as a result of analysis.
+Organize and verify data analysis results and derive insights.
+Service planning and design using data analysis results.
+Operate and upgrade the enterprise experiment (A/B Test) platform to spread the experimental culture.
+A person who has experience in analyzing large amounts of data in a Hadub environment.
+An analysis project experience holder using log data.
+Mathematics/Statistics/Natural Science major.
+Anyone who has experience serviceing data analysis results?
+Anyone who has experience in statistical modeling/repair modeling-based analysis projects?
+Experimental-based work experience holders such as performance marketing/product optimization.
+   /

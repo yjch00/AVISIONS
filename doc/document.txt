@@ -1,0 +1,77 @@
+1
+Data mining is a mathematical computational task of extracting Insight and Foresight from data to be used to make decisions. In this course, first, study key techniques such as association analysis, clustering, regression analysis, decision tree, k-NN, Bayesian, neural network, second, use Python to practice these techniques, and third, convert actual business problems into data mining problems and extract personnel. Through this, business value fosters the ability to derive and derive problems. It also studies the relevance of large Artificial Intelligence, Big Data, Internet of Things, Smart Factory, Social Media, and Fintech, which have recently attracted a lot of attention. Data Mining for Business Analytics R edition,
+Wiley (or data mining for business analytics). Big data, a new language that reads the world. Programming (Python), basic probability statistics, and basic linear algebra. Course Market Segmentation, Korean / Video (Hierical, Associated Analysis) Practice (Visualized Spotfire) / Practice (Preprocessing, Clustering KMeans) / Practice (Clustering Hiarche, Associated Analysis) / (Computing, Algorithm, Artificial Intelligence Machine Learning) Classification, Training DIV case, response modeling, logical R, dimensional reduction Neural Network structure / Neural Network learning.
+   /
+2
+This course is an introduction to the analytic problem solving approaches for operating production systems. It includes basic concepts of production systems, customer satisfaction, production planning, logistics management, factory automation, and strategic production planning. Students will examine applications of efficient management and control techniques, customer oriented design, innovations of logistics management, CALS/EC, and ERP. Basic concept of production and operation management for technology management majors and understanding of technology development. Major tools and strategies for production and operation management for technical management majors. Based on an understanding of the environment such as cost, quality, product life cycle, competitive strategy, and other constraints, optimal production operation and technology management tools and strategies in a given situation.
+   /
+3
+Economics and Economics Introduction This subject teaches social scientists an overview of the overall economy they need. In other words, it outlines how economics has developed, what economics is trying to analyze, and what methods and methods it is to study. It also contributes to raising awareness of the position and importance of economics in various social sciences by concisely introducing theories and points on the development of theoretical policies in each field of economics. Specifically, let's look at what conditions of economic freedom are and what political and social structures can be embodied, and what economic inequality can be resolved in what economic and social environments. As the economy develops, expanding freedom and equality from the political realm to the economic realm is the most urgent task of the modern capitalist system, so the implication of economic freedom and equality is more important. Economic basic demand-supply-market balance market, economic welfare I market and economic welfare II companies' production technology and production cost perfect competition vs incomplete competition externality, public economics major macroeconomic variables aggregate demand-total supply model economic stability policy.
+   /
+4
+Department of Mathematical Sciences. Department of Mathematics. We learn the basic concepts of linear algebra and linear algebra. Starting with Gaussian elimination and row-to-row trapezoidal, we learn matrices and linear ideas, and define a determinant. In addition, we learn the basic concepts of vector space necessary for it, such as bases and dimensions. Understand the change in matrix expression of linear ideas according to the change of basis and learn the characteristic polynomials, diagonalization, and triangulation of matrices. Furthermore, it deals with inner space or more generally a space given a birefringent form, and begins a rudimentary cluster theory to define orthogonal groups. I understand the orthogonal groups of two and three dimensions and their structure. In addition, the concept of quantum space is introduced to enable the use of induction methods for dimensions. The basic concepts of linear algebra, such as matrices, matrices, vector spaces, and linear ideas, are studied. Linear algebra and groups. Matrix and Gauss Erasing Vector Space Base and Chapter 4 Linear Thought Linear Thought Matrix Matrix Specific Polynomials, Diagonalization Specific Polynomials, and Diagonal Decomposition Theorem Decomposition Theorem
+   /
+5
+Statistics. Introduce the basic contents of statistics. Understand the focus of organizing data targeting almost all fields of study, such as natural science, social science, and engineering, and introduce statistical techniques that are put into practical use with the development of computers. Overview basic probability distributions such as binomial distribution and normal distribution and understand the concept of sample distribution. Introduce the principles of interval estimation and test, which are the basis of statistical inference, centering on inference in one population and two populations, and learn how to apply it. Introduce the purpose and methodology of analysis of regression analysis, ANOVA, and classified data, learn analysis methods suitable for data in real life, and develop the ability to solve actual problems. Cultivate the knowledge and application capabilities of statistics related to general statistics. Data generation - Statistics definition, significance in sampling, statistical experiments and survey method populations, probability and probability distribution probability definition, conditional probability variables and probability distribution expectations and variance, combined distribution population distribution (Bernoulli, normal distribution), and sampling underlying population. Reasoning on the distribution of significance test and rejection test) and type 1 and 2 error learning distribution Reasoning on sample test (parent mean, parent variance test problem) Reasoning on sample test (independent sample, corresponding sample, parent variance test problem) Analysis of discrete data (parent data)
+   /
+6
+Physics. Physics. Natural science or engineering students learn a physical approach to the properties of the world of matter related to gravity, motion of objects, energy, waves, and thermal phenomena. Emphasize the characteristics of basic subjects commonly necessary for science and engineering students. Introductory course in basic physics for students majoring in natural science. The beginning.
+learns dynamic concepts such as expression of motion, force and equation of motion, work energy, momentum and angular momentum. In the second half, based on this, strong body and sashimi.
+It analyzes whole motion, harmony motion, etc., and learns about wave phenomena and hydrodynamics. To help them understand, in the sister subject of <Physics Experiment 1>,
+Experiments are conducted focusing on dynamics and waves. Motion along a straight Line, Vectors and their components Basic vector calculus Motion in two and three dimensions Newton's laws Application of Newton's laws Work and Kinetic energy Application of work and kinetic energy Potential energy Potential
+momentum, collision & impulse Conservation of Linear momentum Dynamics in collision Elastic collision in 1D
+   /
+7
+Department of Business Administration. This course will give students the opportunity to learn the basic concepts, tools and techniques of corporate financial management. The students will learn the structural and functional aspects of financing and investment decisions of a modern corporation. Some major topics include: raising capital from capital and money markets; the cost of capital; analysis and evaluation of investment projects; capital budgeting; management of corporate liquidity; capital structure policy; dividend policy and financing forecasting. The purpose of this course is to cover fundamental concepts in corporate finance and capital markets.  We learn how corporate managers make their financial decisions and how those decisions interact with investors’ decisions in capital markets. The topics include investment decision making, the valuation of financial assets, the trade-off between risk and return, corporate financing, dividend policy, risk management and financial derivatives. Time Value of Money  Interest Rates Valuing Bonds Investment Decision Rules Fundamentals of Capital Budgeting Valuing Stocks Capital Markets and Pricing of Risk The Capital Asset Pricing Model Estimating the Cost of Capital Market Efficiency Capital Structure
+   /
+8
+In this beginning course on tennis, students will study the history, special characteristics, effects, game methods, etiquette, equipments, terms, international games, and background of tennis. They will also learn the Learn basic tennis rules such as grip, stroke (forehand and backhand), serve, receive, volley, smash, and rove. Also covered will be the rules for single and double matches, different positions, practice methods, and refereing. Can understand and practice the scientific principles of basic tennis skills. You train your physical strength through tennis and experience the benefits of sports for life.Through basic tennis classes, you can basically practice the overall stroke, serve, volley, and smash skills required in tennis and apply them to actual games. Foundation of stroke (principle of racket, grip, stance understanding, and swing)
+Forehand stroke. (Impact timing, understanding of noodles)
+Backhand stroke.
+Ground stroke. (Forehand + backhand)
+Serve and mini game.
+Stroke footwork.
+Understanding and practice in Bali.
+Understanding Smash and Doubles.
+Introduce and apply tennis psychological skills training (mental training)
+   /
+9
+Circuit theory to Circuit Theory and Laboratory supplies Electrical circuit analysis universities and the released exceptions. The Electric circuit theory is the most important and financial electronics.citors and Op Amp in linear operational region. The circuits are analyzed using Kirchhoff's current law or Kirchhoff's voltage law. The equivalent circuit and maximum power transfer are introduced using In experiments, electric and electronic measurement equipments are introduced, and their working principles and manipulations are demonstrated and practiced. The voltages and currents of the circuit elements are measured by standard measureed. Also, in projects, application oriented circuits are designed and fabricated in order to enhance the design ability and engineering intuition
+   /
+10
+It is a 2D-based basic visual design class for art college students. In this class, we learn about the theoretical background of the principle of images and learn the entire process of recording, adjusting, editing, creating, storing, and sharing images through practice. The main programs used are Photoshop and Illustrator of Adobe Systems and compare related applications to understand the overall graphic tool and the environment of use. It is a class for beginners in visual design.
+Learn basic principles and elements of visual design and basic methods of creating, manipulating, and operating images based on understanding of digital media. Based on this, it explores various methodologies that effectively visualize and communicate topics, and ultimately develops individual original visual shaping languages.
+The teaching method follows the following three. It learns the evolution of digital media, vectors, and concepts of bitmap images, and conducts practice through Photoshop and Illustrator, which are representative image authoring tools. Learn tools actively through practice and task progress, and explore various expression methods. In order to lay the foundation for visual design and expand expression skills, we will learn about graphic designers, various styles, and designers through book seminars. Through the project, we will actually apply and experience visual design and develop it into an individual's visual language. Adobe Illustrator Photoshop Formation Principle
+Graphic Design: New Basic Graphic Design New Basic
+Introductory Semiotics Meaning and Context / Concept and Principle of Biz & Biz Design
+100 facts about people that all planners and designers need to know.
+The secret to looking good Good Design
+Everyone's Illustrator / Photoshop / Hanbit Media
+Delicious Design Illustrators CS6, CC/ Photoshop CS6, CC/ Hanbit Academy.
+Understanding the concepts of digital media and digital images.
+Image production and formative practice through digital media.
+Understanding the overall visual design, graphic elements, and basic principles.
+Communication through the development of an individual's original formative language.
+   /
+11
+The phenomenal success of machine learning and artificial intelligence is fundamentally thanks to the mathematic regime where natural 
+phenomena are described as mathematical problems, and then solved using many modern mathematical tools. Therefore, machine learning 
+without understanding the core principles of mathematics is easily confined to limitations. The goal of this course is to give students an 
+opportunity to learn through practice of combined fundamental mathematics and programming for understanding machine learning. For 
+this goal, this course operates as micro-learning that allows students to learn the necessary unit concept of mathematics and learn through 
+the programming exercises immediately. This course does not deal directly with machine learning algorithms, but it covers the essential 
+requirements for machine learning such as algebra, calculus, linear algebra, and geometry. The programming language used in this course 
+is Python. This course is mainly targeted for undergraduate students who have the knowledge of advanced high -school level mathematics 
+but with no background of programming Students have to perform an individual project with methodology and skills learned from this course Course introduction and Axiomatic system
+Axiomatic system, from the structure of the Universe to the structure of thought.
+Programming practice: Installation and first programming Retrogradation
+Retrograde motion in the sky, Function, Derivative, Chain-rule, Retrograde signal in a cell
+Programming practice: Basic python programming practice Optimization and Regression
+Optimization frameworks, Gradient descent method and Convexity, Non-linear optimization, Monte Carlo 
+Method, Linear regression
+Programming practice: Random number generation, Gradient descent method, Monte Carlo method Analytical geometry
+Mathematical modeling of neurons, From Euclidean geometry to analytical geometry, Occam's razor
+Programming practice: Training binary operations Linear Algebra and Associative memory
+Fundamentals on Vector, Fundamentals on Matrix, Associate memory
+Programming practice: Vector class, vector calculation, matrix operation
+   /
