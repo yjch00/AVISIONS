@@ -14,22 +14,22 @@
 AVISIONS는 채용 정보와 강의계획서 사이의 텍스트 유사도를 구하기 위해 구글, 네이버 등의 검색 사이트에서 볼 수 있는 search engine 코드를 이용하고 있습니다. 크게 4가지 python파일과 3가지 text파일로 구성되어 있습니다.
 - python file :
 
-  CustomScoring.py
+    CustomScoring.py
 
-  evaluate.py
+   evaluate.py
 
-  make_index.py
+    make_index.py
 
-  QueryResult.py
+   QueryResult.py
 
 
 - text file(doc 폴더) :
 
-  document.txt
+    document.txt
 
-  query.txt
+    query.txt
 
-  relevance.txt
+   relevance.txt
 
 ### 코드 실행 방법
 - doc 폴더 속 query.txt에는 채용 정보가 저장되어 있습니다. 직접 채용 정보를 추가, 수정, 제거해 사용자에 맞게 바꿔주세요.
