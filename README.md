@@ -32,9 +32,16 @@ AVISIONS는 채용 정보와 강의계획서 사이의 텍스트 유사도를 �
  ## 3. 참고 자료
 
 [AVISIONS 홈페이지] : https://avisi0ns.github.io/
+
 [서울대학교 수강신청] : https://sugang.snu.ac.kr/
+
 [마이크로소프트 채용] : https://careers.microsoft.com/us/en
+
 [네이버 채용] : https://recruit.navercorp.com/naver/recruitMain
+
 [카카오 채용] : https://careers.kakao.com/krewstory
+
 [SK 하이닉스 채용] : https://recruit.skhynix.com/servlet/mnus_main.view
+
 [whoosh search engine] : https://github.com/mchaput/whoosh
+
