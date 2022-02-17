@@ -47,7 +47,9 @@ def evaluate(query_dict, relevent_dict, results_dict):
                 13:'하이닉스 설계', 14:'하이닉스 재무/회계', 15:'하이닉스 IT',
                 16: '카카오 안드로이드 개발자', 17: '카카오 브랜드 디자이너', 18: '카카오 연결재무',
                 19: '카카오 데이터 분석가'}
-    dict_lec = {1:'데이터마이닝', 2:'생산관리'}
+    dict_lec = {1:'데이터마이닝', 2:'생산관리', 3:'경제학개론', 4:'선형대수학1',
+                5:'통계학', 6:'물리학', 7:'재무관리', 8:'테니스', 9:'기초회로이론 및 실습',
+                10 : '기초시각디자인'}
     for queryID in query_dict.keys():
         relevantCount = 0
         nonRelevantCount = 0
@@ -70,9 +72,11 @@ def evaluate(query_dict, relevent_dict, results_dict):
         score = score / relDocCount
         BPREF.append(score)
 
-    for i in range(1,20):
-        print("{0} 직무와 가장 유사한 강좌는 {1}순 입니다.".format(dict_job[i],results_dict[i]))
-
+        for i in range(1,20):
+            print("{0} 직무와 가장 유사한 강좌는".format(dict_job[i]), end='')
+                for j in results_dict[i]:
+                    print("[{0}]".format(dict_lec[j]), end='')
+            print("순입니다.")
 
 
 
