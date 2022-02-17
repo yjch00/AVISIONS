@@ -13,10 +13,9 @@ AVISIONS는 채용 정보와 강의계획서 사이의 텍스트 유사도를 �
 우선 searchengine의 주된 구성요소는 4개의 python파일과 3개의 doc폴더 속에 있는 txt 문서입니다.
 - doc 폴더 속 query.txt에는 채용 정보가 저장되어 있습니다. 직접 채용 정보를 추가, 수정, 제거할 수 있습니다.
 - doc 폴더 속 document.txt에는 강의계획서가 저장되어 있습니다. 직접 강의계획서를 추가, 수정, 제거할 수 있습니다. 
-- make_index.py -> QueryResult.py -> evaluate.py 앞의 세 가지 python파일을 실행해 아래와 같은 결과를 얻을 수 있습니다. 
- ![코딩 결과](https://user-images.githubusercontent.com/98640306/154388949-a1d32a2c-ad97-4033-8c76-e0ebee21784b.PNG)
+- 필요한 라이브러리를 모두 다운로드 받은 후 make_index.py -> QueryResult.py -> evaluate.py 앞의 세 가지 python파일을 실행해 아래와 같은 결과를 얻을 수 있습니다. 
+![코딩 결과2](https://user-images.githubusercontent.com/98640306/154390870-745ebe12-c80c-41ac-9b0e-d904e0e44c37.PNG)
  
- 참고) 현재 강좌의 인덱스는 아래와 같습니다.
  
  
  ## 2. 추가 기능
