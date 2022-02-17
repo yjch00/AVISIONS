@@ -16,7 +16,10 @@ AVISIONS는 채용 정보와 강의계획서 사이의 텍스트 유사도를 �
 - make_index.py -> QueryResult.py -> evaluate.py 앞의 세 가지 python파일을 실행해 아래와 같은 결과를 얻을 수 있습니다. 
  ![코딩 결과](https://user-images.githubusercontent.com/98640306/154388949-a1d32a2c-ad97-4033-8c76-e0ebee21784b.PNG)
  
- ## 2. 추가 사항
+ 참고) 현재 강좌의 인덱스는 아래와 같습니다.
+ 
+ 
+ ## 2. 추가 기능
  
  
  
