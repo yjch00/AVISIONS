@@ -23,19 +23,18 @@ AVISIONS는 채용 정보와 강의계획서 사이의 텍스트 유사도를 �
  
  
  ## 2. 코드 설명 및 추가 기능
- 
- 
-텍스트 유사도를 계산하는 방법은 굉장히 다양합니다. 단순히 겹치는 단어를 세는 빈도로는 좋은 성능이 안나올 확률이 높습니다. 희귀하게 나타나는 단어에 더 높은 가중치를 주는 tf-idf, BM25 등 그 외에도 여러가지 방법이 존재합니다. 
-만약 정답을 제공한다면 정답과 비교해보아 여러가지 텍스트 유사도 측정 방법을 시행해보며 가장 정답에 근접한 값을 내는 측정 방법을 찾을 수 있습니다. doc 폴더 속의 relevance.txt는 '정답 파일'이라고 생각하시면 됩니다. 현재에 제대로된 정답 데이터는 넣지 않았지만 직접 유사하다고 생각되는 채용 정보와 강의계획서를 match시켜 더욱 텍스트 유사도가 높은 쌍을 찾을 수 있습니다.
- 
- 
- ### python file
-- CustonScoring.py : 
-- evaluate.py :
-- make_index.py :
-- QueryResult.py :
 
- ### text file  
- 
+구글, 네이버 등의 검색창에 '질문'을 던지면 검색결과로 '답변'이 돌아옵니다. 이 또한 텍스트 유사도를 바탕으로 미리 저장되어 있던 '답변' 중 '질문'과 가장 가까운 '답변'을 가져오는 것입니다. 이때 '답변'과 '질문' 서로를 더 잘 감지할 수 있게 여러가지 전처리, 별도의 저장 과정이 필요합니다. 이 과정이 make_index.py, QueryResult.py파일에서 발생합니다.
+텍스트 유사도를 계산하는 방법은 굉장히 다양합니다. 단순히 겹치는 단어를 세는 빈도로는 좋은 성능이 안나올 확률이 높습니다. 희귀하게 나타나는 단어에 더 높은 가중치를 주는 tf-idf, BM25 등 그 외에도 여러가지 방법이 존재합니다. CustomScoring.py을 통해 사용자 정의의 측정 방법을 설정할 수 있습니다. 
+만약 '질문'에 가장 필요한 '답변'이 무엇인지 정답을 제공한다면 정답과 비교해보아 여러가지 측정 방법을 시행해보며 가장 정답에 근접한 값을 내는 방법을 찾을 수 있습니다. doc 폴더 속의 relevance.txt는 '정답 파일'이라고 생각하시면 됩니다. 현재에 제대로된 정답 데이터는 넣지 않았지만 직접 유사하다고 생각되는 채용 정보와 강의계획서를 match시켜 더욱 텍스트 유사도가 높은 쌍을 찾을 수 있습니다.
+
  
  ## 3. 참고 자료
+
+[AVISIONS 홈페이지] : https://avisi0ns.github.io/
+[서울대학교 수강신청] : https://sugang.snu.ac.kr/
+[마이크로소프트 채용] : https://careers.microsoft.com/us/en
+[네이버 채용] : https://recruit.navercorp.com/naver/recruitMain
+[카카오 채용] : https://careers.kakao.com/krewstory
+[SK 하이닉스 채용] : https://recruit.skhynix.com/servlet/mnus_main.view
+[whoosh search engine] : https://github.com/mchaput/whoosh
