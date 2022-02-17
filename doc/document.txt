@@ -53,25 +53,3 @@ Image production and formative practice through digital media.
 Understanding the overall visual design, graphic elements, and basic principles.
 Communication through the development of an individual's original formative language.
    /
-11
-The phenomenal success of machine learning and artificial intelligence is fundamentally thanks to the mathematic regime where natural 
-phenomena are described as mathematical problems, and then solved using many modern mathematical tools. Therefore, machine learning 
-without understanding the core principles of mathematics is easily confined to limitations. The goal of this course is to give students an 
-opportunity to learn through practice of combined fundamental mathematics and programming for understanding machine learning. For 
-this goal, this course operates as micro-learning that allows students to learn the necessary unit concept of mathematics and learn through 
-the programming exercises immediately. This course does not deal directly with machine learning algorithms, but it covers the essential 
-requirements for machine learning such as algebra, calculus, linear algebra, and geometry. The programming language used in this course 
-is Python. This course is mainly targeted for undergraduate students who have the knowledge of advanced high -school level mathematics 
-but with no background of programming Students have to perform an individual project with methodology and skills learned from this course Course introduction and Axiomatic system
-Axiomatic system, from the structure of the Universe to the structure of thought.
-Programming practice: Installation and first programming Retrogradation
-Retrograde motion in the sky, Function, Derivative, Chain-rule, Retrograde signal in a cell
-Programming practice: Basic python programming practice Optimization and Regression
-Optimization frameworks, Gradient descent method and Convexity, Non-linear optimization, Monte Carlo 
-Method, Linear regression
-Programming practice: Random number generation, Gradient descent method, Monte Carlo method Analytical geometry
-Mathematical modeling of neurons, From Euclidean geometry to analytical geometry, Occam's razor
-Programming practice: Training binary operations Linear Algebra and Associative memory
-Fundamentals on Vector, Fundamentals on Matrix, Associate memory
-Programming practice: Vector class, vector calculation, matrix operation
-   /
