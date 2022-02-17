@@ -73,10 +73,10 @@ def evaluate(query_dict, relevent_dict, results_dict):
         BPREF.append(score)
 
         for i in range(1,20):
-            print("{0} 직무와 가장 유사한 강좌는".format(dict_job[i]), end='')
+            print("{0} 직무의 중요 강좌 순서 :".format(dict_job[i]), end='')
                 for j in results_dict[i]:
                     print("[{0}]".format(dict_lec[j]), end='')
-            print("순입니다.")
+            print("")
 
 
 
