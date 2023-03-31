@@ -1,6 +1,6 @@
 # AVISIONS search engine code
-## 빅데이터혁신공유대학 Data-Centric University 4.0 공모전 우수상  
-## AVISIONS : 당신의 취업을 위한 수강 계획 도우미
+#### 빅데이터혁신공유대학 Data-Centric University 4.0 공모전 우수상  
+#### AVISIONS : 당신의 취업을 위한 수강 계획 도우미
 ---------------------------------------------------------------------------
 [AVISIONS 홈페이지] : https://avisi0ns.github.io/
 
