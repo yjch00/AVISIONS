@@ -1,6 +1,6 @@
 #### 빅데이터 혁신공유대학 Data-Centric University 4.0 공모전 우수상  
 (Sponsored by Azure, Google Cloud, Amazon Web Services, and Naver Cloud)
-# AVISIONS search engine code
+
 AVISIONS : 당신의 취업을 위한 수강 계획 도우미
 ---------------------------------------------------------------------------
 [AVISIONS 홈페이지] : https://avisi0ns.github.io/
